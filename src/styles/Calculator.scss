@@ -1,0 +1,65 @@
+@import "../index.scss";
+.info {
+  border: 1px solid white;
+  background-color: #ddd;
+  padding: 15px;
+  border-radius: 12px;
+  margin-top: 30px;
+  margin-left: 29px;
+  margin-right: 29px;
+  font-weight: bold;
+  > p {
+    text-align: center;
+    padding: 0px;
+  }
+}
+.Calculator {
+  background-color: #7cc5ba;
+  border-radius: 12px;
+  color: white;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  height: 76vh;
+  @include desktop {
+    max-width: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 46px;
+    height: 100vh;
+    margin-bottom: 46px;
+  }
+  &__fieldset {
+    margin: 5px;
+    border-radius: 12px;
+    border: 1px solid white;
+    &--legend {
+      border: 1px solid white;
+      padding: 0.5rem;
+      border-radius: 10px;
+    }
+  }
+
+  &__label {
+    margin: 1.5rem;
+  }
+
+  &__select {
+    color: gray;
+    background-color: white;
+  }
+  &__containerBtn {
+    margin: 10px;
+    > button {
+      background-color: black;
+      border: none;
+      border-radius: 0.2rem;
+      width: 100px;
+      color: white;
+      height: 30px;
+      box-shadow: none;
+    }
+  }
+}

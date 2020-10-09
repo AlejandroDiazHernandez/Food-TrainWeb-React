@@ -1,0 +1,71 @@
+@import "../index.scss";
+
+.Home {
+  height: 84vh;
+  @include desktop {
+    height: 100%;
+  }
+
+  &__section {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    
+    @include desktop {
+      flex-direction: row;
+      justify-content: center;
+      height: 131vh;
+    }
+    &--image {
+        display: flex;
+        flex-direction: column;
+        padding: 15px;
+        height: 78vh;
+        margin-top: 45px;
+        border-radius: 12px;
+        @include desktop {
+          margin-left: 20px;
+          margin-right: 20px;
+        }
+        > img {
+          width: 90%;
+          margin-left: 20px;
+        }
+        @include desktop {
+          width: 70%;
+          height: 100vh;
+        }
+      }
+
+    &--content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+
+
+      > h2 {
+        color: black;
+      }
+    }
+
+   
+  }
+
+ 
+
+  &--btnTrain {
+    background-color: black;
+    border: none;
+    border-radius: 0.2rem;
+    width: 100px;
+    color: white;
+    border: 2px solid white;
+
+    &:hover {
+      background-color: white;
+      color: black;
+    }
+  }
+}

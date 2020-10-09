@@ -1,0 +1,54 @@
+@import "../index.scss";
+p {
+  text-align: justify;
+}
+.AboutUs {
+  padding: 60px 60px;
+  background-color: #7cc5ba;
+
+  &__info {
+    &--1 {
+      padding: 0;
+      @include desktop {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+        flex-direction: row;
+      }
+      > li {
+        @include desktop {
+          background-color: rgba(255, 255, 255, 0.39);
+          border-radius: 20px;
+          margin: 10px;
+          padding: 10px;
+
+        }
+        list-style-type: none;
+        padding: 0;
+        margin: 1rem 0;
+      }
+    }
+
+    &--2 {
+      text-align: initial;
+      padding: 0 2rem;
+
+      > li {
+        list-style-type: none;
+        padding: 0;
+        margin: 1rem 0;
+      }
+    }
+  }
+}
+.Photo {
+  border-radius: 50px;
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.icon {
+  margin-top: 15px;
+  width: 50px;
+}

@@ -1,0 +1,70 @@
+@import '../index.scss';
+
+.CardNutrition {
+  margin: 20px;
+  border: 1px solid white;
+  /*  padding: 20px; */
+  background-color: #7cc5ba;
+  width: 250px;
+  border: 1px solid #ddd;
+  text-align: center;
+  border-radius: 12px;
+
+  &__size {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    max-height: 200px;
+
+    @include desktop {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      max-height: 200px;
+
+    }
+  }
+
+  h3 {
+    padding: 20px;
+    max-height: 300px;
+    min-height: 127px;
+    margin:0;
+
+    @include desktop {
+      padding: 20px;
+      max-height: 300px;
+      min-height: 104px;
+    }
+  }
+
+  img {
+
+    border-radius: 12px;
+    height: 140px;
+    width: 100%;
+
+    @include desktop {
+      border-radius: 12px;
+      height: 140px;
+      width: 100%;
+    }
+  }
+
+  &__btn {
+    border-radius: 12px;
+    margin-top: 56px;
+    height: 59px;
+    width: 100%;
+
+
+    @include desktop {
+      border-radius: 12px;
+      margin-top: 15px;
+      height: 59px;
+      width: 100%;
+    }
+  }
+
+
+}

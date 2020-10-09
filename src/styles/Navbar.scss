@@ -1,0 +1,96 @@
+@import '../index.scss';
+
+
+.Navbar {
+  margin: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  border-bottom: 1px solid #ddd;
+
+
+  &__image {
+    width: 150px;
+
+    @include desktop {
+      width: 150px;
+    }
+  }
+
+  &__menu {
+    position: relative;
+  }
+
+  &__open-button {
+    @extend .custom-button;
+  }
+
+  &__links {
+    position: absolute;
+    top: 2.75rem;
+   
+    right: 0;
+   
+
+    border-radius: 0.25rem;
+   
+    padding: 0.5rem;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+    @include desktop {
+      position: fixed;
+      top:auto;
+       margin-top: 10px;
+    }
+    >li {
+      
+      flex-basis: 100%;
+
+      @include desktop {
+        flex-basis: auto;
+       
+       
+      }
+      @include tablet {
+        flex-basis: auto;
+      
+      }
+    }
+  }
+
+  &__link {
+    background-color: white;
+  
+ 
+    padding: 0.5rem;
+    color: #7cc5ba;
+   width: 126px;
+    font-size: 0.75rem;
+    
+    cursor: pointer;
+  
+    &:hover {
+      background-color: #7cc5ba;
+      color: white;
+     
+    }
+    // @extend .custom-button;
+    display: block;
+
+    >h3 {
+      margin: 0;
+
+      >span {
+        padding-right: 0.5rem;
+      }
+    }
+  }
+}

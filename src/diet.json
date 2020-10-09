@@ -1,0 +1,1369 @@
+[
+  {
+    "id": 1,
+    "type": "Comida o Cena",
+    "option": "Vegetariano",
+    "title": "Ensalada Mediterranea de Atún",
+    "image": "https://spoonacular.com/recipeImages/729366-312x231.jpg",
+    "cal": 422,
+    "carbs": 8,
+    "proteins": 28,
+    "fats": 41,
+    "recipe": [
+      "En un tazón pequeño o cazuela, agregue la chalota finamente picada y cubra con vinagre de vino blanco y 1/2 cucharadita de azúcar.",
+      "Reserva y deja marinar mientras preparas el atún.Escurre el atún quitando el exceso de agua.",
+      "En un bol, agrega el atún y con un tenedor; romper en pedazos del tamaño de un bocado.",
+      "Agregue los ingredientes restantes y mezcle bien.",
+      "Sirve sobre una cama de ensalada mixta, mezclada con aceite de oliva y vinagreta de balsámico rojo. La proporción de la vinagreta es de 1 parte de vinagre por 3 partes de aceite.",
+      "Adorne con aceitunas kalamata enteras y perejil"
+    ],
+    "ingredients": [
+      "Ensalada de primavera mixta al gusto",
+      "Rúcula al gusto",
+      "1 chalota/cebolla pequeña, finamente picada",
+      "1/2 cucharadita de azúcar",
+      "1 lata de Atun natural",
+      "1 tomate, cortado en cubitos",
+      "1 cucharadita de perejil",
+      "1 cucharada de alcaparras picadas",
+      "6 aceitunas negras, sin hueso y picadas",
+      "2 cucharadas de mayonesa",
+      "2 cucharadas de aceite de oliva virgen extra"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "Comida o Cena",
+    "title": "Ensalada de Quinua con Verduras y Anacardos",
+    "option": "Vegetariano",
+    "image": "https://spoonacular.com/recipeImages/782600-312x231.jpg",
+    "cal": 487,
+    "carbs": 29,
+    "proteins": 8,
+    "fats": 39,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "Comida o Cena",
+    "title": "Arroz con Setas y Espárragos",
+    "option": "Vegetariano",
+    "image": "https://spoonacular.com/recipeImages/642605-312x231.jpg",
+    "imageType": "jpg",
+    "cal": 365.279,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "Comida o Cena",
+    "option": "Vegetariano",
+    "title": "Frittata de calabaza butternut",
+    "image": "https://spoonacular.com/recipeImages/636589-312x231.jpg",
+    "cal": 468.457,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "Comida o Cena",
+    "option": "Omnivoro",
+    "title": "Cazuela de quinua y enchilada de pollo con queso",
+    "image": "https://spoonacular.com/recipeImages/715421-312x231.jpg",
+    "cal": 594.096,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "Comida o Cena",
+    "option": "Vegetariano",
+    "title": "Cuscús cítrico de garbanzos y nueces",
+    "image": "https://spoonacular.com/recipeImages/639535-312x231.jpg",
+    "cal": 563.698,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "Comida o Cena",
+    "title": "Guiso marroquí de garbanzos y lentejas",
+    "option": "Vegetariano",
+    "image": "https://spoonacular.com/recipeImages/652417-312x231.jpg",
+    "cal": 465.686,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "Snack",
+    "option": "Vegetariano",
+    "title": "Batido de Proteinas",
+    "image": "https://spoonacular.com/recipeImages/794538-312x231.jpg",
+    "cal": 484.906,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Tartar de Salmón",
+    "type": "Comida o Cena",
+    "option": "Omnivoro",
+    "image": "https://spoonacular.com/recipeImages/648320-312x231.jpg",
+    "cal": 320.239,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "Comida o Cena",
+    "title": "Batatas Rellenos De Rosbif Desmenuzado",
+    "option": "Omnivoro",
+    "image": "https://spoonacular.com/recipeImages/769774-312x231.jpg",
+    "cal": 427.117,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "Comida o Cena",
+    "title": "Ensalada de Lentejas y Verduras",
+    "option": "Vegetariano",
+    "image": "https://spoonacular.com/recipeImages/649931-312x231.jpg",
+    "cal": 324.818,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "Comida o Cena",
+    "title": "Ensalada De Fresa Y Mango Quinoa",
+    "option": "Vegetariano",
+    "image": "https://spoonacular.com/recipeImages/661925-312x231.jpg",
+    "cal": 356.932,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "Comida o Cena",
+    "title": "Sopa fácil de carne y verduras",
+    "option": "Omnivoro",
+    "image": "https://spoonacular.com/recipeImages/715447-312x231.jpg",
+    "cal": 566.113,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "Comida o Cena",
+    "title": "Ensalada Marroquí De Cuscús Y Garbanzos",
+    "option": "Vegetariano",
+    "image": "https://spoonacular.com/recipeImages/652423-312x231.jpg",
+    "cal": 484.074,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "Comida o Cena",
+    "title": "Olla de cocción lenta: cerdo y garbanzos",
+    "option": "Omnivoro",
+    "image": "https://spoonacular.com/recipeImages/660306-312x231.jpg",
+    "cal": 435.583,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "Comida o Cena",
+    "title": "El Mejor Chili",
+    "option": "Omnivoro",
+    "image": "https://spoonacular.com/recipeImages/715424-312x231.jpg",
+    "cal": 322.828,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "Comida o Cena",
+    "title": "Sopa de Tomate y Lentejas",
+    "option": "Vegetariano",
+    "image": "https://spoonacular.com/recipeImages/663559-312x231.jpg",
+    "cal": 358.106,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "Comida o Cena",
+    "title": "Ensalada De Aguacate De Pavo",
+    "option": "Omnivoro",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDfSAH3TuucGrioAFhaVkxC60y5L75Ku6w3g&usqp=CAU",
+    "cal": 513.542,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "Comida o Cena",
+    "title": "Sopa de frijoles negros ahumados con patata dulce y col rizada",
+    "option": "Vegetariano",
+    "image": "https://spoonacular.com/recipeImages/660405-312x231.jpg",
+    "cal": 555.614,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "Comida o Cena",
+    "title": "Sopa de guisantes y champiñones",
+    "option": "Vegetariano",
+    "image": "https://spoonacular.com/recipeImages/716221-312x231.jpg",
+    "cal": 649.589,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "Comida o Cena",
+    "title": "Bowl de Quinoa,Brocoli y Verduras",
+    "option": "Vegetariano",
+    "image": "https://spoonacular.com/recipeImages/982371-312x231.jpg",
+    "cal": 420.258,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "Comida o Cena",
+    "title": "Solomillo de Cerdo envuelto en Bacon",
+    "option": "Omnivoro",
+    "image": "https://spoonacular.com/recipeImages/633344-312x231.jpg",
+    "cal": 433.091,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "Comida o Cena",
+    "title": "Salteado de quinua, arroz integral y pechuga de pollo",
+    "option": "Omnivoro",
+    "image": "https://spoonacular.com/recipeImages/716361-312x231.jpg",
+    "cal": 739.035,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "Comida o Cena",
+    "title": "Ensalada de pollo turco con salsa de yogur",
+    "option": "Omnivoro",
+    "image": "https://spoonacular.com/recipeImages/664090-312x231.jpg",
+    "cal": 593.797,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "Comida o Cena",
+    "title": "Mini Pimientos Mexicanos Rellenos",
+    "option": "Omnivoro",
+    "image": "https://spoonacular.com/recipeImages/651977-312x231.jpg",
+    "cal": 445.41,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "Comida o Cena",
+    "title": "Flank Steak relleno de espinacas y gorgonzola",
+    "option": "Vegetariano",
+    "image": "https://spoonacular.com/recipeImages/661259-312x231.jpg",
+    "cal": 523.455,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "Comida o Cena",
+    "title": "Frijoles con Cerdo Ahumado",
+    "image": "https://spoonacular.com/recipeImages/634548-312x231.jpg",
+    "option": "Omnivoro",
+    "cal": 401.595,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "Comida o Cena",
+    "title": "Ensalada de salmón, berros, hinojo y remolacha tierna con aderezo de limón",
+    "image": "https://spoonacular.com/recipeImages/659143-312x231.jpg",
+    "option": "Omnivoro",
+    "cal": 456.127,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "Comida o Cena",
+    "title": "Tacos blandos de filete mignon",
+    "image": "https://spoonacular.com/recipeImages/715533-312x231.jpg",
+    "option": "Omnivoro",
+    "cal": 512.324,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "Comida o Cena",
+    "title": "Alcachofas rellenas",
+    "option": "Omnivoro",
+    "image": "https://spoonacular.com/recipeImages/640921-312x231.jpg",
+    "cal": 468.711,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "Comida o Cena",
+    "title": "Sopa instantánea de taco de pollo",
+    "option": "Omnivoro",
+    "image": "https://spoonacular.com/recipeImages/975070-312x231.jpg",
+    "cal": 345.987,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "Desayuno",
+    "title": "Doughnuts",
+    "option": "Omnivoro",
+    "image": "https://spoonacular.com/recipeImages/716276-312x231.jpg",
+    "cal": 424.95,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "Desayuno",
+    "title": "Batido de chocolate con mantequilla de maní y canela",
+    "option": "Vegetariano",
+    "image": "https://spoonacular.com/recipeImages/782622-312x231.png",
+    "cal": 416.98,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "Desayuno",
+    "title": "Desayuno Americano",
+    "option": "carnivorus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsusjKnRR75iJzPKAi08kuoH4B2M21-bdnRw&usqp=CAU",
+    "cal": 638,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "Desayuno",
+    "title": "Café y tostatdas con tomate en pan integral",
+    "option": "Vegetariano",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbiVvhwLHBA_wOYRXAEt7mDC73Bc2ysTDe6g&usqp=CAU",
+    "cal": 362,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "Desayuno",
+    "title": "Café y Tortitas de cacao y frambuesas.",
+    "option": "Vegetariano",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtk2Ax0ayRCTbiMbg6IlOmoBVJFGs4ED32UQ&usqp=CAU",
+    "cal": 309,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "Desayuno",
+    "title": "Tazón de avena con quinoa, coco cremoso y melocotones",
+    "option": "Vegetariano",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZCTFZQr1RARUX91JIVwu0gVmjH-MJ5aE6Ug&usqp=CAU",
+    "cal": 223,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "Desayuno",
+    "title": "Café con Tostadas con Aguacate",
+    "option": "Vegetariano",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5kB6ftACM2koYNL46o2OuhmF6YSVon1rFUA&usqp=CAU",
+    "cal": 223,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "Desayuno",
+    "title": "Pudding de Banana y Chia",
+    "option": "Vegetariano",
+    "image": "https://www.entrenamiento.com/wp-content/uploads/2016/04/chia-pudin-con-frutos-secos-720x378.jpg",
+    "cal": 315,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "Desayuno",
+    "title": "Sandwich Portobello",
+    "option": "Vegetariano",
+    "image": "https://www.entrenamiento.com/wp-content/uploads/2016/04/sandwich-con-portobello-720x480.jpg",
+    "cal": 402,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "Desayuno",
+    "title": "Wrap sin carne a la mexicana",
+    "option": "Vegetariano",
+    "image": "https://www.entrenamiento.com/wp-content/uploads/2016/04/panqueques-con-mermelada-de-frambuesas-720x406.jpg",
+    "cal": 398,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "Desayuno",
+    "title": "Bowl de queso Cottage",
+    "option": "carnivorus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4xlA2PQ6yeZP-x-xrbXrjSh4EXOKAlBKjCg&usqp=CAU",
+    "cal": 202,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "Desayuno",
+    "title": "Mini frittatas",
+    "option": "carnivorus",
+    "image": "https://dam.cosmoenespanol.com/wp-content/uploads/2020/07/Muffins-salados.jpg",
+    "cal": 417,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "Desayuno",
+    "title": "Pan tostado con salmón",
+    "option": "carnivorus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR20MFzRWi0lG0UnGuhF5shJNm18ZdCx67yyQ&usqp=CAU",
+    "cal": 105,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "Desayuno",
+    "title": "Tortilla Francesa de Pavo",
+    "option": "carnivorus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhhfieXDRxz9LxEXXCwKI_dqliMSAUGQ21pg&usqp=CAU",
+    "cal": 199,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "Desayuno",
+    "title": "Banana Bread Proteico",
+    "option": "carnivorus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIAwKN6dfR12Z4gvFrgO7-pdbd0oiYs35NbA&usqp=CAU",
+    "cal": 199,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "Snack",
+    "title": "Fruta o Batido de Frutas",
+    "option": "Vegetariano",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgMEysqczr6o9MfadxiGOHeqo53tqWXNRbvQ&usqp=CAU",
+    "cal": 199,
+    "carbs": 40,
+    "proteins": 35,
+    "fats": 30,
+    "recipe": [
+      "Forre una bandeja para hornear con papel pergamino y precaliente un horno a 350 °.",
+      " Mezcle la chirivía, las zanahorias y las coles de Bruselas con 1 cucharada de aceite de oliva y esparza uniformemente en la sartén.",
+      " Ase durante 30 minutos o hasta que estén tiernos, revolviendo las verduras a la mitad del tiempo de cocción. Mientras tanto, tueste los anacardos, las semillas de girasol, las semillas de calabaza y las semillas de sésamo en una sartén seca sin untar a fuego medio-bajo durante 10 a 15 minutos, revolviendo con frecuencia, hasta que los anacardos y las semillas de sésamo estén ligeramente dorados. Mezcle la col rizada con las 3 cucharadas restantes de aceite de oliva en una ensaladera grande. Esponja la quinua y agrégala al bol junto con las verduras asadas y los tomates cherry. Batir los ingredientes del aderezo. Vierta el aderezo sobre la ensalada y mezcle.Sirve a temperatura ambiente o frío. Espolvorea cada porción con un poco de anacardos tostados y semillas."
+    ],
+    "ingredients": [
+      "1/2 tazas de quinua cocida (3/4 taza seca)",
+      " 1 chirivía mediana, picada",
+      " 2 zanahorias medianas, picadas",
+      " 1 1/2 tazas de coles de Bruselas, cortadas por la mitad",
+      " 4 cucharadas de aceite de sésamo",
+      " 1/3 taza de anacardos crudos",
+      " 1/4 taza de semillas de girasol",
+      " 1/4 taza de semillas de calabaza",
+      " 1/4 taza de semillas de sésamo",
+      " 5 tallos de col verde, cortados y picados",
+      " 1/2 taza de tomates cherry, cortados por la mitad"
+    ]
+  }
+]

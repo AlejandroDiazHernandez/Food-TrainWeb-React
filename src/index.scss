@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul {
+  margin: 0 auto;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+//VARIABLES
+$primary-color: #3aff7d;
+$secondary-color: rgb(160, 229, 218);
+$desktop-layout: 800px;
+$layout_bp_tablet: 400px;
+
+a:link,
+a:visited,
+a:active {
+  text-decoration: none;
+}
+
+//HERENCIA
+
+%flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+%column {
+  display: flex;
+  flex-direction: column;
+}
+
+//RESPONSIVE
+@mixin desktop {
+  @media screen and (min-width: $desktop-layout) {
+    @content;
+  }
+}
+@mixin tablet {
+  @media only screen and (min-width: $layout_bp_tablet) {
+    @content;
+  }
+}
+// Custom classes
+.custom-button {
+  background-color: #7cc5ba;
+  border: 1px solid rgb(233, 231, 231);
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  color: white;
+ 
+  font-size: 1rem;
+  
+  cursor: pointer;
+
+  &:hover {
+    background-color: #7cc5ba;
+    color: white;
+   
+  }
+}
+
+.custom-button2 {
+  background-color: black;
+  border: 1px solid rgb(233, 231, 231);
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  color: white;
+ 
+  font-size: 1rem;
+  
+  cursor: pointer;
+
+  &:hover {
+    background-color: white;
+    color: black;
+   
+  }
+}

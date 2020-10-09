@@ -1,0 +1,35 @@
+.CardTrain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1rem;
+    border: 2px solid white;
+    padding: 1rem;
+    border-radius: 12px;
+    background-color: #7cc5ba;
+
+    button {
+        padding: 1rem;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        color: white;
+        background-color: black;
+        margin: 0;
+
+    }
+    >h3 {
+        color: black;
+    }
+
+    >p {
+        color: black;
+    }
+
+    &--img {
+        width: 300px;
+        height: 200px;
+    }
+}

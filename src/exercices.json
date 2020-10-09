@@ -1,0 +1,148 @@
+[
+	{
+		"id": 0,
+		"name": "Oblique twist",
+        "video": "https://www.verywellfit.com/thmb/ZwRQhOL4WAijxp2ahb3sFMIuRDw=/3000x1687/smart/filters:no_upscale()/86-3120067-Seated-Oblique-twists-GIF-75816d0fb4c94494b254483a1fe1e365.gif",
+        "muscle": "Abs"
+	}, {
+		"id": 1,
+		"name": "Benchpress",
+        "video": "https://images.squarespace-cdn.com/content/v1/5160bb45e4b0e13a258812c8/1465147008413-I4Q845TPURO08GTRQC0B/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvW56LRaUT1pClzWs44DErAMUJFbgE-7XRK3dMEBRBhUpxyH7D9o_sP9iDKR7VWf2EW0z-lLLdSzvOBX7-YhFU-Sf-r-Mf6XPaDdNwWfcjJAwU/image-asset.gif",
+        "muscle": "Chest"
+	}, {
+		"id": 2,
+		"name": "Deadlift",
+        "video": "https://blogcms.gymshark.com/uploads/1578670369-man-showing-how-to-romanian-deadlift.gif",
+        "muscle": "Back, Legs"
+	}, {
+		"id": 3,
+		"name": "Squat",
+        "video": "https://thumbs.gfycat.com/BitterFoolishHalcyon-small.gif",
+        "muscle": "Legs"
+	}, {
+		"id": 4,
+		"name": "Tricep pulldown",
+        "video": "https://weighteasyloss.com/wp-content/uploads/2018/06/razgibanie-s-kanatnoy-rukoyatkoy.gif",
+        "muscle": "Triceps"
+	}, {
+		"id": 5,
+		"name": "Pulley crunch",
+        "video": "https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/cable-crunch.gif?resize=480:*",
+        "muscle": "Abs"
+	}, {
+		"id": 6,
+		"name": "Floor crunch",
+        "video": "https://www.foodspring.co.uk/magazine/wp-content/uploads/2018/08/Crunches-Giannis.gif",
+        "muscle": "Abs"
+	}, {
+		"id": 7,
+		"name": "Overhead tricep extension",
+        "video": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/workouts/2016/03/dumbbelloverheadtricepsextension-1456956005.gif",
+        "muscle": "Triceps"
+	}, {
+		"id": 8,
+		"name": "Dumbbell press",
+        "video": "https://images.squarespace-cdn.com/content/v1/54f9e84de4b0d13f30bba4cb/1526590877144-BYR9X8ZX5FROTGOZ2VHL/ke17ZwdGBToddI8pDm48kK3svdqmw2prsPjqjcUJoBVZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVG_Q82foFXlATZgWeZbKuDWu8UEUHkxgJke7CVwzRQ8vDFvbuqF0GUInBxxtVhBOn4/DSC_6330.mov.gif",
+        "muscle": "Chest"
+	}, {
+		"id": 9,
+		"name": "Forearm curl back (15 reps)",
+        "video": "https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/palmsdowncurl.gif?resize=480:*",
+        "muscle": "Forearm"
+	}, {
+		"id": 10,
+		"name": "Forearm curl in (15 reps)",
+        "video": "https://www.verywellfit.com/thmb/qHMTnFhWE2VSG2UqQ6eugDtP4ic=/3000x2000/filters:fill(FFDB5D,1)/wristcurl-1056698feeaa4cf88a7586827ad70895.gif",
+        "muscle": "Forearm"
+	}, {
+		"id": 11,
+		"name": "Seated pulley row",
+        "video": "https://www.gymguider.com/wp-content/uploads/2017/10/seated-cable-row-gifs.gif",
+        "muscle": "Back"
+	}, {
+		"id": 12,
+		"name": "Shrug",
+        "video": "https://blogcms.gymshark.com/uploads/1574946197-how-to-barbell-shrug.gif",
+        "muscle": "Deltoids"
+	}, {
+		"id": 13,
+		"name": "Calf raise",
+        "video": "https://thumbs.gfycat.com/HarmfulIndelibleHarpyeagle-small.gif",
+        "muscle": "Calf"
+	}, {
+		"id": 14,
+		"name": "Dumbbell romanian deadlift",
+        "video": "https://thumbs.gfycat.com/FrankDecisiveKatydid-size_restricted.gif",
+        "muscle": "Back"
+	}, {
+		"id": 15,
+		"name": "Dumbbell squat",
+        "video": "https://i.pinimg.com/originals/65/a7/06/65a7060e35a50bbffb314fcbfdd51683.gif",
+        "muscle": "Legs"
+	}, {
+		"id": 16,
+		"name": "Front raise",
+        "video": "https://thumbs.gfycat.com/ThriftyOblongIceblueredtopzebra-size_restricted.gif",
+        "muscle": "Shoulders"
+	}, {
+		"id": 17,
+		"name": "Julian tricep extension",
+        "video": "https://i.pinimg.com/originals/4b/94/df/4b94dff2da3f011a50df0bf53fa6ed78.gif",
+        "muscle": "Triceps"
+	}, {
+		"id": 18,
+		"name": "Bicep curl",
+        "video": "https://thumbs.gfycat.com/FelineSaltyBat-size_restricted.gif",
+        "muscle": "Biceps"
+	}, {
+		"id": 19,
+		"name": "Dumbbell incline press",
+        "video": "https://thumbs.gfycat.com/DearestMammothDrafthorse-size_restricted.gif",
+        "muscle": "Chest"
+	}, {
+		"id": 20,
+		"name": "Side raise",
+        "video": "https://thumbs.gfycat.com/GreedyUnpleasantBlackfootedferret-size_restricted.gif",
+        "muscle": "Shoulders"
+	}, {
+		"id": 21,
+		"name": "Hand grippers",
+        "video": "https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-grip-crushers.gif",
+        "muscle": "Forearm"
+	}, {
+		"id": 22,
+		"name": "Dumbbell shoulder press",
+        "video": "https://i.pinimg.com/originals/24/9f/c2/249fc2fd2614e0a54ee0e6c8839a0a9e.gif",
+        "muscle": "Shoulders"
+	}, {
+		"id": 23,
+		"name": "Overhead press",
+        "video": "https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/how-to-do-the-military-press.gif?resize=480:*",
+        "muscle": "Shoulders"
+	}, {
+		"id": 24,
+		"name": "Hamstring curl",
+        "video": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/766/fitgif9-15-tnoverride-1508511602.gif?crop=1xw:0.786xh;center,top&resize=1200:*",
+        "muscle": "Legs"
+	}, {
+		"id": 25,
+		"name": "Lat pulldown",
+        "video": "https://cdn.shopify.com/s/files/1/0057/5599/4225/files/3_8.gif?14585889164111718635",
+        "muscle": "Back"
+	}, {
+		"id": 26,
+		"name": "Hanging leg raise",
+        "video": "https://www.verywellfit.com/thmb/DdhKJwMs5IQt8G4rsKAso-wtxOw=/3000x1687/smart/filters:no_upscale()/42-3498291-Captains-Chair-Leg-Raises-GIF-a2f30dc759fe474c94893c8bd19abecb.gif",
+        "muscle": "Abs"
+    }, {
+		"id": 27,
+		"name": "Standing Reverse Barbell Curl",
+        "video": "https://i.pinimg.com/originals/32/11/36/321136cd77bbaa7922f61d63fe75eb5d.gif",
+        "muscle": "Biceps"
+    }, {
+		"id": 28,
+		"name": "Standing Cable Curl",
+        "video": "https://blogcms.gymshark.com/uploads/1571837368-cable-bicep-curl.gif",
+        "muscle": "Biceps"
+    }
+]

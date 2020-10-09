@@ -1,0 +1,44 @@
+@import '../index.scss';
+
+.CardNutritionDetail {
+
+
+  &__back {
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+
+  &__details {
+    margin: 20px;
+    border: 1px solid white;
+    padding: 20px;
+    background-color: #7cc5ba;
+    border-radius: 12px;
+    color: white;
+    text-align: justify;
+
+    >h3{
+  
+      text-align: center;
+    }
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+
+    >img {
+      width: 60%;
+      border-radius: 50%;
+
+      @include desktop {
+        width: 30%;
+      }
+    }
+  }
+
+
+}

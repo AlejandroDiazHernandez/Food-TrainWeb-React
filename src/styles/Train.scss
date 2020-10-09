@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+  }
+.Train {
+    min-height: 100vh;
+
+    &--title {
+        margin-top: 1rem;
+        color: black;
+    }
+
+    &__btnUl {
+
+        padding-left: 0;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        color: black;
+        margin: 0;
+
+
+        >li {
+            padding: 0;
+
+            >button {
+                color: white;
+                font-weight: bold;
+                background-color: black;
+                border: 2px solid #ddd;
+                padding: 0.5rem 0.8rem;
+                border-radius: 0.3rem;
+                margin: 5px;
+                width: 100px;
+            }
+        }
+    }
+
+    &__cardUl {
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        list-style-type: none;
+        text-align: initial;
+        justify-content: center;
+        
+    }
+}
